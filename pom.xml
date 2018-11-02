@@ -27,6 +27,7 @@
         <module>mybatisdemo</module>
         <module>niodemo</module>
         <module>netty-demo</module>
+        <module>springboot-demo</module>
     </modules>
     <properties>
         <spring.version>4.2.6.RELEASE</spring.version>
