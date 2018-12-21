@@ -29,6 +29,9 @@
         <module>netty-demo</module>
         <module>springboot-demo</module>
         <module>aviator-demo</module>
+        <module>reactive-demo</module>
+        <module>design-pattern-demo</module>
+        <module>zookeeper-demo</module>
     </modules>
     <properties>
         <spring.version>4.2.6.RELEASE</spring.version>
