@@ -1,4 +1,4 @@
-package classloader;
+package classloader.demo1;
 
 /**
  * Created by Mirana on 07/11/2017.
